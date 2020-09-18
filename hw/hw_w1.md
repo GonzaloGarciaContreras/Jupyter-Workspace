@@ -1,5 +1,6 @@
-# Robinhood App - Disrupting the Trading Industry
- 
+# TITLE
+Robinhood App - Disrupting the Trading Industry 
+
 ## Overview and Origin
 
 ### Name of company 
