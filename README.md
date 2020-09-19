@@ -27,13 +27,16 @@ Key people Jason Warnick (CFO) Gretchen Howard (COO)
 
 ### How did the idea for the company (or project) come about?
 Robinhood’s story begins almost a decade ago at Stanford, where Baiju and Vlad met as roommates and classmates. 
+
 After graduation they packed their bags for New York and built two finance companies, selling trading software to hedge funds. 
+
 With their newfound experience in the world of finance, they realized that big Wall Street firms pay effectively nothing to trade stocks, 
 while most Americans were charged commission for every trade. 
+
 They soon decided it was more important to build products that would provide everyone with access to the financial markets, not just the wealthy. 
-Two years after heading to New York, they moved back to California and built Robinhood—a company that leverages technology 
-to encourage everyone to participate in our financial system.
-The company's name comes from its mission to "provide everyone with access to the financial markets, not just the wealthy". Tenev noted that executing a trade cost brokerages "fractions of a penny" but they typically charged fees of $5 to $10 per trade, as well as required account minimums of $500 to $5,000
+
+Two years after heading to New York, they moved back to California and built Robinhood—a company that leverages technology to encourage everyone to participate in our financial system.
+
 
 
 ### How is the company funded? How much funding have they received?
@@ -81,28 +84,28 @@ Investor Name (non-exahustive)      Funding Round
 
 ### What specific financial problem is the company or project trying to solve?
 
-Robinhood is a stock brokerage that allows customers to buy and sell stocks, options, ETFs, and cryptocurrencies with zero commission.
-Robinhood started with a simple idea: using technology, we can re-think the way financial services operate. 
-The company's name comes from its mission to "provide everyone with access to the financial markets, not just the wealthy". 
-As per one of Robinhood's funders "executing a trade cost brokerages "fractions of a penny" but they typically charged fees of 
-$5 to $10 per trade, as well as required account minimums of $500 to $5,000"
+- Robinhood is a stock brokerage that allows customers to buy and sell stocks, options, ETFs, and cryptocurrencies with zero commission.
+- Robinhood started with a simple idea: using technology, we can re-think the way financial services operate. 
+- The company's name comes from its mission to "provide everyone with access to the financial markets, not just the wealthy". 
+As per one of Robinhood's funders "executing a trade cost brokerages "fractions of a penny" but they typically charged *fees of 
+$5 to $10 per trade*, as well as required *account minimums of $500 to $5,000*"
 
 ### Who is the company's intended customer?  
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 Their Marketing approach roots in the company's brand name "the outlaw from English folklore, who stole from the rich and gave to the poor" 
+
 Their "customer persona" are essentially "millenials" and new entrants to the stock market. 
-Robinhood, mostly used by millennials to trade stocks and cryptocurrency, has grown from its 1 million subscribers in 2016 and 
-6 million accounts in October of 2018. 
+Robinhood, mostly used by millennials to trade stocks and cryptocurrency, has grown from its 1 million subscribers in 2016 to ~10M in 2020
+
 More than half of Robinhood customers are opening their first brokerage account, and the median customer age is 31 years old, according to the company.
+
 Fifty percent of users who have made a trade use the app daily and 90% use the app weekly.
-According to different sources Robinhood currently has between 10M and 13M
+
 
 Robinhood co-CEO Baiju Bhatt told CNBC in a phone interview: 
-    “We’ve seen a major paradigm shift for broader financial services. 
-    People that previously didn’t feel like the markets were for them are for the first time feeling a sense of inclusivity.”
-
-
+    *“We’ve seen a major paradigm shift for broader financial services. 
+    People that previously didn’t feel like the markets were for them are for the first time feeling a sense of inclusivity.”*
 
 
 ### Is there any information about the market size of this set of customers?
@@ -133,9 +136,6 @@ Consul, Zookeeper, ELK, Vault, Fabric, Salt, StatsD, Phabricator, Sensu, LXC
 -   Business Tools: Slack, G Suite, Confluence, Asana 
 
 
-
-
-
 ## Landscape:
 
 * What domain of the financial industry is the company in?
@@ -145,21 +145,20 @@ Consul, Zookeeper, ELK, Vault, Fabric, Salt, StatsD, Phabricator, Sensu, LXC
 - The is a FINRA regulated broker-dealer, registered with the U.S. Securities and Exchange Commission, and is a member of the Securities Investor Protection Corporation.
 
 ### What have been the major trends and innovations of this domain over the last 5-10 years?
-In the “old world,” brokers, as members and owners, controlled the exchanges. Exchanges had monopoly on liquidity and brokers controlled access. 
-By providing investors access to markets, brokers earned commissions and also received trading fee rebates from the exchange. Brokers thus competed on the basis of service and relationships, rather than price.
+- In the “old world,” brokers, as members and owners, controlled the exchanges. Exchanges had monopoly on liquidity and brokers controlled access. 
+- By providing investors access to markets, brokers earned commissions and also received trading fee rebates from the exchange. Brokers thus competed on the basis of service and relationships, rather than price.
 
-The introduction of negotiated commissions in the U.S. in 1975 marked the beginning of constantly increasing competition for brokers. 
-In the last 10-15 years, this process accelerated and Capital Markets have experienced a disruption  driven by technology
-Electronic trading has dramatically increased trading volumes and liquidity and slashed the cost of intermediation and broadened access to markets.  
-In many ways, brokers and exchanges now compete with each other.
-The emerging technologies in the financial services industry have impacted almost all the business aspects in the years after 2010. 
-Regulations are also evolving and adaptiving to this new world, and processes have become more transparent
-Technology-led (FinTech) innovation in products and services are disrupting the financial markets and challenging the tradicional business model e.g. "0 commisions - RobinHood" 
-The FinTech market is continuously growing, valued  at $127.66 billion in 2018 and is expected to reach $309.98 billion by 2022. 
-Technological innovations are affecting all areas and departments of brokers and exchanges ...
+- The introduction of negotiated commissions in the U.S. in 1975 marked the beginning of constantly increasing competition for brokers. 
+- In the last 10-15 years, this process accelerated and Capital Markets have experienced a disruption  driven by technologyElectronic trading has dramatically increased trading volumes and liquidity and slashed the cost of intermediation and broadened access to markets.  
+- In many ways, brokers and exchanges now compete with each other.
+- The emerging technologies in the financial services industry have impacted almost all the business aspects in the years after 2010. 
+- Regulations are also evolving and adaptiving to this new world, and processes have become more transparent
+- Technology-led (FinTech) innovation in products and services are disrupting the financial markets and challenging the tradicional business model e.g. "0 commisions - RobinHood" 
+- The FinTech market is continuously growing, valued  at $127.66 billion in 2018 and is expected to reach $309.98 billion by 2022. 
+- Technological innovations are affecting all areas and departments of brokers and exchanges ...
 strategy, operations, technology, security, finance, marketing. 
-New customers, especially Millennials and new entrants, have also changed the trends in the demand for new services, by using new technological means of iteration, in real time and through new channels of product marketing 
-Technologies such as Artificial Intelligence, Machine Learning, Data Analysis, Blockchain, Crytocurrencies, Internet of Things, Mobile Technology, Cloud Computing, DevOps, CyberSecurity are now at the core of Financial Services Systems, including Brokers and Exchanges and these technologies will certantly be driving the future in this domain
+- New customers, especially Millennials and new entrants, have also changed the trends in the demand for new services, by using new technological means of iteration, in real time and through new channels of product marketing 
+- Technologies such as Artificial Intelligence, Machine Learning, Data Analysis, Blockchain, Crytocurrencies, Internet of Things, Mobile Technology, Cloud Computing, DevOps, CyberSecurity are now at the core of Financial Services Systems, including Brokers and Exchanges and these technologies will certantly be driving the future in this domain
 
 
 
@@ -200,8 +199,10 @@ Some key KPIs are:
 ### How is your company performing relative to competitors in the same domain?
 Robinhood does not publish its trading statistics the way all other brokers do, so it's hard to compare its payment for order flow statistics to anyone else. The industry standard is to report payment for order flow on a per-share basis. Robinhood reports on a per-dollar basis instead
 
-As per available information, the company’s lifetime revenue to date is between $600 and $650 million, while 20-25% of its current income comes from interest on customer accounts and 55% from so-called order flow—rebates 
-This still leaves the question of how the company plans to make profit. There is also the question of how many of their ~10 million accounts are active, and how much money the average one contains. 
+As per available information, the company’s lifetime revenue to date is between $600 and ***$650 million***, while ***20-25% of its current income comes from interest on customer accounts*** and ***55% from so-called order flow—rebates ***
+
+This still leaves the question of *how the company plans to make profit*. There is also the question of how many of their ~10 million *accounts are active*, and *how much money the average one contains*. 
+
 Robinhood's profitable competitors are *eTrade or Charles Schwab.*
 
 
