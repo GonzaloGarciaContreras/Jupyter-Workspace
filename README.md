@@ -4,8 +4,6 @@
 
 ### Name of company 
 - Robinhood Markets, Inc. is an private American financial services company headquartered in Menlo Park, California
-- Robinhood is a FINRA regulated broker-dealer, registered with the U.S. Securities and Exchange Commission, 
-and is a member of the Securities Investor Protection Corporation.
 
 The company offers a mobile app and website that offer people the ability to invest in stocks, ETFs, and options 
 through Robinhood Financial and crypto trading through Robinhood Crypto.
@@ -142,63 +140,49 @@ Consul, Zookeeper, ELK, Vault, Fabric, Salt, StatsD, Phabricator, Sensu, LXC
 
 * What domain of the financial industry is the company in?
 
-***Stockbroker and Electronic trading platform***
+- ***Robinhood is Stockbroker and Electronic trading platform***
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
-In the “old world,” brokers, as members and owners, controlled the exchanges. 
-Exchanges had monopoly on liquidity and brokers controlled access. 
-By providing investors access to markets, brokers earned commissions and also received trading fee rebates from the exchange. 
-Brokers thus competed on the basis of service and relationships, rather than price.
+- The is a FINRA regulated broker-dealer, registered with the U.S. Securities and Exchange Commission, and is a member of the Securities Investor Protection Corporation.
 
-The introduction of negotiated commissions in the U.S. in 1975 marked the beginning of constantly increasing competition and challenges for brokers. 
-In the last 10-15 years, this process accelerated and Capital mMrkets experienced a revolution driven by technology and radical change in market structure.
-Electronic trading dramatically increased trading volumes and liquidity and slashed the cost of intermediation and broadened access to markets. 
-Access to liquidity was “democratized”, Liquidity became fragmented among exchanges, alternative trading platforms 
-In many ways, brokers and exchanges now compete with each other, Life has become very tough for brokers.
+### What have been the major trends and innovations of this domain over the last 5-10 years?
+In the “old world,” brokers, as members and owners, controlled the exchanges. Exchanges had monopoly on liquidity and brokers controlled access. 
+By providing investors access to markets, brokers earned commissions and also received trading fee rebates from the exchange. Brokers thus competed on the basis of service and relationships, rather than price.
 
-In the past few years, the impact of technology on financial services has been massive. 
+The introduction of negotiated commissions in the U.S. in 1975 marked the beginning of constantly increasing competition for brokers. 
+In the last 10-15 years, this process accelerated and Capital Markets have experienced a disruption  driven by technology
+Electronic trading has dramatically increased trading volumes and liquidity and slashed the cost of intermediation and broadened access to markets.  
+In many ways, brokers and exchanges now compete with each other.
 The emerging technologies in the financial services industry have impacted almost all the business aspects in the years after 2010. 
-Processes have become more transparent, transactions are layered with security and precision, 
-and customers are offered a great deal of personalization across products and services. 
-Regulations are also evolving and adaptiving to this new world 
-Thanks to these technologies businesses are able to enhance their consumer intelligence capability, to strategize customer-centric growth.
-Businesses are compelled to let go off the traditional financial practices and follow agile, innovative approaches to stay ahead of the competition. 
+Regulations are also evolving and adaptiving to this new world, and processes have become more transparent
 Technology-led (FinTech) innovation in products and services are disrupting the financial markets and challenging the tradicional business model e.g. "0 commisions - RobinHood" 
-The FinTech market is continuously growing. It was valued at $127.66 billion in 2018 and is expected to reach $309.98 billion by 2022. 
+The FinTech market is continuously growing, valued  at $127.66 billion in 2018 and is expected to reach $309.98 billion by 2022. 
 Technological innovations are affecting all areas and departments of brokers and exchanges ...
 strategy, operations, technology, security, finance, marketing. 
-New customers, especially Millennials and new entrants, have also changed the trends in the demand for new services, 
-with new technological means of iteration, in real time and through new channels of product marketing 
-Technologies such as Artificial Intelligence, Machine Learning, Data Analysis, Blockchain, Crytocurrencies, 
-Internet of Things, Mobile Technology, Cloud Computing, DevOps, CyberSecurity are now at the core of Financial Services Systems, including Brokers and Exchanges 
-
-Cognitive Technology, Chatbots, Blockchain, Data Analytics, Automation, Cloud Computing, Cybersecurity will certantly be driving the future in this domain
+New customers, especially Millennials and new entrants, have also changed the trends in the demand for new services, by using new technological means of iteration, in real time and through new channels of product marketing 
+Technologies such as Artificial Intelligence, Machine Learning, Data Analysis, Blockchain, Crytocurrencies, Internet of Things, Mobile Technology, Cloud Computing, DevOps, CyberSecurity are now at the core of Financial Services Systems, including Brokers and Exchanges and these technologies will certantly be driving the future in this domain
 
 
 
-
-
-* What are the other major companies in this domain?
+### What are the other major companies in this domain?
 
 - TradeStation --> Active Stock Traders
-- TD Ameritrade --> TD Ameritrade offers free stock and ETF trades are also available. Like Robinhood, TD Ameritrade offers zero account fees. Unlike Robinhood, TD Ameritrade offers a large selection of financial services. TD Ameritrade’s mobile platform far exceeds Robinhood’s app
+- TD Ameritrade --> TD Ameritrade offers free stock, and ETF trades are also available. Like Robinhood, TD Ameritrade offers zero account fees. Unlike Robinhood, TD Ameritrade offers a large selection of financial services. TD Ameritrade’s mobile platform far exceeds Robinhood’s app
 - Firstrade --> For Online Traders
-- M1 Finance --> M1 Finance offers free investing. A hybrid robo/self-directed brokerage firm. Financial management that incorporates features of both automated investing and self-directed strategies 
-- Webull --> seems to be the main Robinhood. It has the same $0 commission on stocks, options and ETFs. Unlike Robinhood, Webull offers an advanced trading platform, IRA accounts, simulated trading
-- Merrill Edge --> is Bank of America’s on-line discount brokerage arm. It normally offers stock and ETF trades at $0. Bank of America/Merrill Edge programs, and they come with a host of other benefits
+- M1 Finance --> A hybrid robo/self-directed brokerage firm, M1 Finance offers free investing. M1 offers financial management that incorporates features of both automated investing and self-directed strategies 
+- Webull --> Probably the main Robinhood's competitor. It has the same $0 commission on stocks, options and ETFs. Unlike Robinhood, Webull offers an advanced trading platform, IRA accounts, and simulated trading
+- Merrill Edge --> Is Bank of America’s on-line discount brokerage arm. It normally offers stock and ETF trades at $0. Bank of America/Merrill Edge programs, and they come with a host of other benefits
 - Betterment 
-- Interactive Brokers --> Best for Advanced Traders 
+- Interactive Brokers --> for Advanced Traders 
 
 
 
 
 ## Results
 
-* What has been the business impact of this company so far?
-- Robinhood has grown to 10 million users since 2016.
+### What has been the business impact of this company so far?
+- Robinhood has grown to ~10 million users since 2016.
 - The start-up, launched in 2013 with a free-trading model, was mimicked by brokerage firms such as Charles Schwab, Fidelity, TD Ameritrade. 
-- RobinHood is seeing record new account openings despite the pandemic.
-- Robinhood has boosted its valuation to $8.3 billion, even after its trading technology stumbled badly during the coronavirus crash. 
+- Robinhood has boosted its valuation to $8.3 billion, even after its *trading technology stumbled badly during the coronavirus crash*. 
 
 
 
@@ -217,10 +201,8 @@ Some key KPIs are:
 Robinhood does not publish its trading statistics the way all other brokers do, so it's hard to compare its payment for order flow statistics to anyone else. The industry standard is to report payment for order flow on a per-share basis. Robinhood reports on a per-dollar basis instead
 
 As per available information, the company’s lifetime revenue to date is between $600 and $650 million, while 20-25% of its current income comes from interest on customer accounts and 55% from so-called order flow—rebates 
-Sources close to the company said Robinhood has “a very strong balance sheet” 
-This still leaves the question of how the company plans to make a profit. There is also the question of how many of the 10 million accounts Robinhood are active, and how much money the average one contains. 
-Some of Robinhood's profitable competitors are eTrade or Charles Schwab.
-
+This still leaves the question of how the company plans to make profit. There is also the question of how many of their ~10 million accounts are active, and how much money the average one contains. 
+Robinhood's profitable competitors are *eTrade or Charles Schwab.*
 
 
 
@@ -232,18 +214,23 @@ Some of Robinhood's profitable competitors are eTrade or Charles Schwab.
 
 - One account option: For investing, Robinhood supports only individual taxable accounts (brokerage account). 
 
-- Customer support:  Robinhood's customer support is almost exclusively done through email. The company does not publish a phone number. It does have a useful and well-organized help center online, and the website is easy to navigate and transparent.
+- Customer support/service  Robinhood's customer support is almost exclusively done through email. The company does not publish a phone number. 
+
+- Education and Risk Management tools 
 
 ### Why do you think that offering this product or service would benefit the company?
 
-- For most investors, investing through a taxable brokerage account should come only after they have invested 10% to 15% of their income for retirement in a tax-advantaged account like a 401(k) or IRA.
+- Customer support:  Robinhood's customer support is almost exclusively done through email. For the type of clients / users they have, I think it would be a good service that could be a mix of robotization and consultation
 
-* What technologies would this additional product or service utilize?
+- Education and Risk Management tools: Robinhood faced controversy in June 2020 after student Alexander E. Kearns (20 years old), University of Nebraska, committed suicide after seeing a negative cash balance of U.S. ~$700k in his Robinhood trading account. 
 
-* Why are these technologies appropriate for your solution?
+### What technologies would this additional product or service utilize? Why are these technologies appropriate for your solution?
+
+- Artificial Intelligence, Machine Learning, Deep Learning, Mobile App, Chatbot app
 
 
 
+### ***Resources***
 - https://en.wikipedia.org/wiki/Robinhood_(company) (Wikipedia page)
 - https://about.robinhood.com/
 - https://www.bloomberg.com/news/features/2018-02-08/brokerage-app-robinhood-thinks-bitcoinbelongs-in-your-retirement-plan (tales of the growth of RobinHood, including comparison with
